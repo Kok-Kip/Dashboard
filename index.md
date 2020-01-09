@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Kop Kip Search Engine For Documents
 
-You can use the [editor on GitHub](https://github.com/Kok-Kip/Dashboard/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a dashboard for Kop Kip Search Engine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our website
 
-### Markdown
+https://kok-kip.github.io/frontend/#/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Github Organization
 
-```markdown
-Syntax highlighted code block
+website: https://github.com/Kok-Kip
 
-# Header 1
-## Header 2
-### Header 3
+Team:
 
-- Bulleted
-- List
+- Leader: [leungyukshing](https://github.com/leungyukshing)
+- Developer: Junhua Liang
+- Developer: Guangtao Zeng
 
-1. Numbered
-2. List
+### Documents
 
-**Bold** and _Italic_ and `Code` text
+#### Project Design
 
-[Link](url) and ![Image](src)
-```
+#### Frontend
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Backend
 
-### Jekyll Themes
+1. [Mini Search Engine Design Doc](https://github.com/Kok-Kip/backend/blob/master/Mini Search Engine Design Doc.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kok-Kip/Dashboard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
